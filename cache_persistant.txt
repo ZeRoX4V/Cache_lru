@@ -1,0 +1,3 @@
+G:Valeur G
+E:Valeur E
+H:Valeur H
